@@ -1,7 +1,7 @@
-[![MasterHead]([https://longlist.io/cdn-cgi/image/format=auto/https%3A%2F%2Fcdn.longlist.io%2Fjd%2Fsenior-python-developer-job-description-1659441641.webp](https://www.synergisticit.com/wp-content/uploads/2021/10/Columbus-Banner-Image-pytho-n.jpg))](https://linktr.ee/ckrchaudharikiran)
+[![MasterHead](https://patchyst.github.io/images/pythonbanner.jpg)](https://linktr.ee/ckrchaudharikiran)
 <h1 align="center">Hi 👋, I'm Kiran Chaudhari</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
-img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://media3.giphy.com/media/bGgsc5mWoryfgKBx1u/200w.gif?cid=6c09b9522i2ksatgc9hg2q4jbytzka3n7tk7ce4vmqkoov9c&ep=v1_gifs_search&rid=200w.gif&ct=g)">
+img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif">
 
 <p align="left"> <a href="https://twitter.com/_kiranchaudhari" target="blank"><img src="https://img.shields.io/twitter/follow/_kiranchaudhari?logo=twitter&style=for-the-badge" alt="_kiranchaudhari" /></a> </p>
 
