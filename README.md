@@ -3,10 +3,7 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="MasterHead"/>
 </p>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=4CAF50&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Kiran+Chaudhari;Software+Engineer+%F0%9F%92%BB;Data+Science+%26+AI%2FML+Enthusiast;Always+Learning+New+Tech+🚀" alt="Typing SVG" />
-</h1>
-
+<h1 align="center">👋 Hey there, I'm <span style="color:#4CAF50;">Kiran Chaudhari</span></h1>
 <h3 align="center">🚀 Passionate about building intelligent, scalable, and impactful software solutions</h3>
 
 ---
